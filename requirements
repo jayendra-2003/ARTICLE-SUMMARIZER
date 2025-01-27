@@ -1,0 +1,13 @@
+streamlit
+requests
+beautifulsoup4
+newspaper3k
+langdetect
+transformers
+pymupdf
+nltk
+torch
+tensorflow
+tf-keras
+lxml[html_clean]
+bcrypt
